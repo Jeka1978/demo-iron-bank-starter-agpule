@@ -1,0 +1,6 @@
+
+
+
+org.springframework.boot.env.EnvironmentPostProcessor = com.agpulse.demoironbankstarter.ProfileAutoDetectorEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer = com.agpulse.demoironbankstarter.ProfileSentinelApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.agpulse.demoironbankstarter.IronBankStarterConf
